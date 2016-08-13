@@ -1,4 +1,4 @@
-# WordPress plugins
+# WordPress projects
 
 > List of my WordPress plugins
 
