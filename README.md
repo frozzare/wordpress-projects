@@ -20,7 +20,7 @@
 * [Lint](https://github.com/frozzare/wp-cli-lint) - Lint your WordPress code using WP CLI.
 * [Media restore](https://github.com/frozzare/wp-cli-media-restore) - Restore media attachments using WP CLI.
 
-> List of my WordPress tools
+> List of my WordPress libraries/tools
 
 * [Extended Post Status](https://github.com/frozzare/wp-extended-post-status) - A library which provides extended functionality to WordPress post type statuses.
 * [Plugin Boilerplate](https://github.com/frozzare/wp-plugin-boilerplate) - My own plugin boilerplate.
